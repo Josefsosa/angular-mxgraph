@@ -23,7 +23,7 @@
     "core-js": "^2.5.4",
     "mxgraph": "^3.9.8",
     "rxjs": "^6.0.0",
-    "zone.js": "^0.8.26"
+    "zone.js": "^0.11.6"
   },
   "devDependencies": {
     "@angular/compiler-cli": "^6.0.3",
